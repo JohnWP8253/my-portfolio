@@ -385,7 +385,7 @@ h6 a {
 * header
 * ---------------------------------------*/
 .header {
-  background: #161a34;
+  background: #3c3c3c;
   display: flex;
   align-items: center;
   height: 80px;
@@ -444,7 +444,7 @@ h6 a {
   left: 0;
   width: 80px;
   top: 0;
-  background: #161a34;
+  background: #3c3c3c;
   height: 100%;
 }
 .left-bar .mail-info {
@@ -621,7 +621,7 @@ h6 a {
   height: 35px;
   line-height: 35px;
   text-align: center;
-  background: #1c46f2;
+  background: rgba(242, 28, 28, 0.63);
   color: #fff;
   position: absolute;
   top: 10px;
@@ -1491,7 +1491,7 @@ h6 a {
 * Footer
 * ---------------------------------------*/
 .footer {
-  background: #161a34;
+  background: #3c3c3c;
   height: 80px;
   align-items: center;
   display: flex;
