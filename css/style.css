@@ -351,7 +351,7 @@ h6 a {
   color: #fff;
   z-index: -1;
   -webkit-text-stroke-width: 2px;
-  -webkit-text-stroke-color: rgba(22, 26, 52, 0.1);
+  -webkit-text-stroke-color: rgba(242, 28, 28, 0.2git );
 }
 
 /* blockquote */
@@ -609,7 +609,7 @@ h6 a {
   height: 100vh;
   z-index: 999;
   background: #fff;
-  color: #161a34;
+  color: #3c3c3c;
   transition: all 0.3s;
   box-shadow: 3px 3px 3px rgba(22, 26, 52, 0.2);
 }
@@ -672,7 +672,7 @@ h6 a {
 * ---------------------------------------*/
 .nav .nav-item .nav-link {
   font-size: 20px;
-  color: #161a34;
+  color: #3c3c3c;
   font-weight: 500;
   padding: 8px 0;
 }
